@@ -11,7 +11,7 @@ Data related to Cryptocurrency Market is being visualized here. Its one of the g
 -> open your terminal
 -> Go inside your files located this project
 -> Run # npm install
--> Then # npm start and open localhost:3000 in your browser
+-> Then # node .\index.js and open localhost:3000 in your browser
 
 .
 .
